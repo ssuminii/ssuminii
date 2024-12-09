@@ -3,6 +3,6 @@
 <img
     src="https://render.gitanimals.org/lines/ssuminii"
     width="300"
-    height="150"
+    height="180"
   />
 </a>
