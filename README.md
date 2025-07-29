@@ -14,7 +14,7 @@
 
 🔗 [https://www.2ven.shop/](https://www.2ven.shop/)
 
-**[도르멍 드르멍 - 구름톤 14기 최우수상]** 제주도를 살펴보고 경험할 수 있는 오디오 스토리텔링 기반 관광 서비스
+**[도르멍 드르멍 - 구름톤 14기 최우수상 🏆]** 제주도를 살펴보고 경험할 수 있는 오디오 스토리텔링 기반 관광 서비스
 
 🔗 [https://dormung.netlify.app/](https://dormung.netlify.app/)
 
@@ -28,14 +28,3 @@
 
 - 9oormthon 14th (구름톤 14기)
   - 2025.07.08 ~ 2025.07.11
-
-<br>
-
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuminii&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=3D3B40&icon_color=FFD0EC&title_color=FFD0EC)
-<a href="https://github.com/devxb/gitanimals">
-<img
-    src="https://render.gitanimals.org/lines/ssuminii"
-    width="300"
-    height="180"
-  />
-</a>
