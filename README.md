@@ -2,7 +2,7 @@
 
 ## Project
 
-**[Catch-Letter]** "내가 그린 그림, 맞춰볼래?" 친구가 그린 그림의 정답을 맞혀야만 편지를 읽을 수 있는 인터랙티브 편지 플랫폼
+**[Catch-Letter]** 전하고 싶은 마음을 그림과 편지로 남겨봐요! 친구가 그린 그림의 정답을 맞혀야만 편지를 읽을 수 있는 인터랙티브 편지 플랫폼
 
 🔗 [https://catchletter.kr/](https://catchletter.kr/)
 
@@ -29,9 +29,6 @@
 - 9oormthon 14th (구름톤 14기)
   - 2025.07.08 ~ 2025.07.11
 
----
-
-<br>
 <br>
 
 ![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuminii&hide=stars&show_icons=true&count_private=true&bg_color=fff&text_color=3D3B40&icon_color=FFD0EC&title_color=FFD0EC)
