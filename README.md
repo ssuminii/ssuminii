@@ -10,7 +10,7 @@
 
 🔗 [https://write-me-eta.vercel.app](https://write-me-eta.vercel.app)
 
-**[Tradely]** 투자 매매전략을 공유하고 중개하는 소셜 플랫폼, 트레들리
+**[Tradely]** 투자 매매전략을 공유하고 중개하는 소셜 플랫폼
 
 🔗 [https://www.2ven.shop/](https://www.2ven.shop/)
 
