@@ -2,7 +2,7 @@
 
 ## Project
 
-**[Catch-Letter]** 전하고 싶은 마음을 그림과 편지로 남겨봐요! 친구가 그린 그림의 정답을 맞혀야만 편지를 읽을 수 있는 인터랙티브 편지 플랫폼
+**[Catch-Letter]** 전하고 싶은 마음을 그림과 편지로 남겨봐요!
 
 🔗 [https://catchletter.kr/](https://catchletter.kr/)
 
