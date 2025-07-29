@@ -16,7 +16,7 @@
 
 **[도르멍 드르멍 - 구름톤 14기 최우수상]** 제주도를 살펴보고 경험할 수 있는 오디오 스토리텔링 기반 관광 서비스
 
-🔗 [https://www.2ven.shop/](https://www.2ven.shop/)
+🔗 [https://dormung.netlify.app/](https://dormung.netlify.app/)
 
 <br>
 
